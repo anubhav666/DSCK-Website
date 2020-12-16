@@ -345,14 +345,25 @@ header {
     padding-top: 4px;
 }
 
-.footer-bottom {
-    padding: 10px;
-    font-size: 70%;
-    width: 100%;
-    bottom: 0px;
-    text-align: center;
-    position: absolute;
-    left: 0px;
+.footer .footer-section .contact-form.contact-input{
+    margin-bottom: 100px;
+    line-height: 1.5rem;
+    padding: .9rem 1rem;
+    border:none;
+}
+
+.footer-bottom{
+height: 20px;
+width: 100%; 
+bottom: 0px;
+text-align: center;
+position: absolute;
+left:0px;
+padding-top: 0px;
+}
+.typed-text
+{
+    height:1rem;
 }
 
 .typed-text {
